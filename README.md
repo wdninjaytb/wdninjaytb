@@ -34,7 +34,17 @@ Academic web project simulating an oriental products store, divided into two app
 
 ### 🛠️ Technologies I've worked with
 
-`C++` `PHP` `JavaScript` `HTML` `CSS` `MySQL` `Bootstrap` `Construct 3`
+#### 💻 Programming Languages
+`C++` `Java` `Lua / Luau` `PHP` `JavaScript` `TypeScript`
+
+#### 🌐 Web
+`HTML` `CSS / SCSS` `Bootstrap`
+
+#### 🗄️ Databases
+`MySQL` `MariaDB`
+
+#### 🎮 Game Development
+`Construct 3`
 
 ---
 
@@ -63,11 +73,21 @@ Jogo de luta 2D desenvolvido no **Construct 3** como projeto acadêmico, inspira
 Projeto acadêmico de desenvolvimento web que simula uma loja de produtos orientais, com catálogo público e sistema administrativo separado.
 
 - [**Catálogo Público**](https://github.com/wdninjaytb/kaeru-catalogo) — Interface pública de catálogo de produtos e categorias.
-- [**Painel de Administrador**](https://github.com/wdninjaytb/kaeru-admin) —Sistema Administrativo para managing produtos, categorias e inventário, com uma dashboard inclusa que permite monitorar inventário e detalhes importantes.
+- [**Painel Administrativo**](https://github.com/wdninjaytb/kaeru-adm) — Sistema administrativo para gerenciamento de produtos, categorias e estoque, com um dashboard integrado para monitoramento do estoque e de informações importantes do sistema.
 
 ### 🛠️ Tecnologias com as quais já trabalhei
 
-`C++` `PHP` `JavaScript` `HTML` `CSS` `MySQL` `Bootstrap` `Construct 3`
+#### 💻 Linguagens de Programação
+`C++` `Java` `Lua / Luau` `PHP` `JavaScript` `TypeScript`
+
+#### 🌐 Web
+`HTML` `CSS / SCSS` `Bootstrap`
+
+#### 🗄️ Bancos de Dados
+`MySQL` `MariaDB`
+
+#### 🎮 Desenvolvimento de Jogos
+`Construct 3`
 
 ---
 
@@ -97,11 +117,21 @@ Projeto acadêmico de desenvolvimento web que simula uma loja de produtos orient
 東洋の商品を扱う店舗を想定して制作した大学のWeb開発プロジェクトです。2つのアプリケーションに分かれています。
 
 - [**商品カタログ**](https://github.com/wdninjaytb/kaeru-catalogo) — 商品やカテゴリーを閲覧するための公開ページです。
-- [**管理システム**](https://github.com/wdninjaytb/kaeru-admin) — 商品、カテゴリー、在庫を管理するためのシステムです。在庫やシステムの情報を確認できるダッシュボードも搭載しています。
+- [**管理システム**](https://github.com/wdninjaytb/kaeru-adm) — 商品、カテゴリー、在庫を管理するためのシステムです。在庫やシステムの情報を確認できるダッシュボードも搭載しています。
 
 ### 🛠️ 使用経験のある技術
 
-`C++` `PHP` `JavaScript` `HTML` `CSS` `MySQL` `Bootstrap` `Construct 3`
+#### 💻 プログラミング言語
+`C++` `Java` `Lua / Luau` `PHP` `JavaScript` `TypeScript`
+
+#### 🌐 Web
+`HTML` `CSS / SCSS` `Bootstrap`
+
+#### 🗄️ データベース
+`MySQL` `MariaDB`
+
+#### 🎮 ゲーム開発
+`Construct 3`
 
 ---
 
