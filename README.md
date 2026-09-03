@@ -30,7 +30,7 @@ A 2D fighting game developed with **Construct 3** as an academic project, inspir
 Academic web project simulating an oriental products store, divided into two applications:
 
 - [**Public Catalog**](https://github.com/wdninjaytb/kaeru-catalogo) — Public interface for browsing products and categories.
-- [**Admin Panel**](https://github.com/wdninjaytb/kaeru-admin) — Administrative system for managing products, categories and inventory, with a built-in dashboard for monitoring inventory and system data.
+- [**Admin Panel**](https://github.com/wdninjaytb/kaeru-adm) — Administrative system for managing products, categories and inventory, with a built-in dashboard for monitoring inventory and system data.
 
 ### 🛠️ Technologies I've worked with
 
